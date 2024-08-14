@@ -1,8 +1,33 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/melissacarvajal/melissacarvajal/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg" width="800"/>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-carvajal-caicedo-bb7491174/)
+
 </div>
 
-## Hi there 👋
+## Hello! 🌻
+
+
+### :hammer_and_wrench: Languages and Tools
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
+
+### 📊 Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melissacarvajal&theme=light&background=a2cd5a)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissacarvajal&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **melissacarvajal/melissacarvajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
