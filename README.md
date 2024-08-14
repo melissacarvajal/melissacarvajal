@@ -7,6 +7,9 @@
 
 ## Hello! 🌻
 
+Happy to see you stopping by my profile 😊 I'm passionate about all things data related and very excited to continue to learn. Recently I graduated and got certified as a Data Analyst at the school TripleTen, and now I'm looking forward to put my skills into new projects and gain valuable experience in the field. 
+
+Check out below some of the projects I've completed as part of my learning journey so far 🙌🏼 
 
 ### :hammer_and_wrench: Languages and Tools
 
